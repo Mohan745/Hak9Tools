@@ -22,7 +22,7 @@ blue='\e[1;34m'
 echo ""
 sleep 2
 # Check root
-[[ `id -u` -eq 0 ]] > /dev/null 2>&1 || { echo  $red "You must be root to run the script"; echo ; exit 1; }
+
 
 # detect ctrl+c exiting
 trap ctrl_c INT
