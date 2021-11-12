@@ -3,7 +3,7 @@
 # https://github.com/xHak9x/Hak9Tools
 
 ## Getting Started
-1. ```git clone https://github.com/xHak9x/Hak9Tools.git```
+1. ```git clone https://github.com/Mohan745/Hak9Tools.git```
 2. ```cd Hak9Tools```
 3. ```chmod +x hak9tools.sh ```
 4. ```./hak9tools.sh ```
